@@ -1,4 +1,4 @@
-# Automated-Certificate-Generator-Using-Python
+# Certificate PostMan
 Hello all,
 I did not added the image of certicate in this you need to add by ypur own.
 # Usage
